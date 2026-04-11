@@ -75,15 +75,6 @@ const sahidul = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Using anuraghazra's vercel deployment — most stable stats service -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul-dev-47&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
