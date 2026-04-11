@@ -81,7 +81,7 @@ const sahidul = {
 <img src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul-dev-47&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahidul-dev-47&theme=midnight-purple&hide_border=true&border_radius=10" width="60%"/>
+
 
 </div>
 
