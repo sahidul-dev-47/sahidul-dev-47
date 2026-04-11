@@ -90,7 +90,7 @@ const sahidul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahidul-dev-47&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" width="60%"/>
 </div>
 
 ---
@@ -105,4 +105,3 @@ const sahidul = {
 ![Profile Views](https://komarev.com/ghpvc/?username=sahidul-dev-47&color=blueviolet&style=flat-square)
 
 </div>
-
