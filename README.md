@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Animated Banner via capsule-render (very reliable) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahidul%20Islam&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20in%20Progress&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing SVG (very reliable) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=BBA+Student+%7C+Frontend+Developer;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Next.js;Learning+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
+<!-- Social badges (static shields.io — always works) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahidul-islam-)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17ANiUNLmA/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahidul-dev-47)
@@ -37,6 +37,7 @@ const sahidul = {
 
 <div align="center">
 
+<!-- shields.io badges — 100% reliable, no external API needed -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,19 +79,32 @@ const sahidul = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul-dev-47&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahidul-dev-47&theme=midnight-purple&hide_border=true&border_radius=10" width="60%"/>
-
+<!-- Using anuraghazra's vercel deployment — most stable stats service -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul-dev-47&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Streak Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahidul-dev-47&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<!-- streak-stats by DenverCoder1 — reliable alternative -->
+<img src="https://streak-stats.demolab.com?user=sahidul-dev-47&theme=midnight-purple&hide_border=true&border_radius=10" width="60%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<!-- Activity graph — very stable service -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahidul-dev-47&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
