@@ -44,7 +44,6 @@ const sahidul = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-8B5CF6?style=for-the-badge)
-
 </div>
 
 ---
