@@ -25,7 +25,7 @@ const sahidul = {
   role:       "Aspiring Frontend Developer",
   education:  "BBA Student",
   location:   "Bangladesh 🇧🇩",
-  learning:   ["React", "Component Architecture", "State Management"],
+  learning:   ["React", "Nextjs", "Node js", "MongoDB", "Express js"],
   goals:      ["Master React", "Build Full-Stack Apps", "Contribute to Open Source"],
   funFact:    "I write code and business plans in the same day 😄"
 };
