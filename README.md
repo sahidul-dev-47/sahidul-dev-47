@@ -22,8 +22,7 @@
 ```javascript
 const sahidul = {
   name:       "Sahidul Islam",
-  role:       "Aspiring Frontend Developer",
-  education:  "BBA Student",
+  role:       "MERN Stack Developer",
   location:   "Bangladesh 🇧🇩",
   learning:   ["React", "Nextjs", "Node js", "MongoDB", "Express js"],
   goals:      ["Master React", "Build Full-Stack Apps", "Contribute to Open Source"],
