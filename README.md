@@ -144,7 +144,7 @@ const sahidul = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahidul-dev-47&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=sahidul-dev-47&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
