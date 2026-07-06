@@ -134,18 +134,15 @@ const sahidul = {
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahidul-dev-47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul-dev-47&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=sahidul-dev-47&theme=tokyonight&hide_border=true" />
-</div>
+<sub align="center">↑ Auto-generated daily via GitHub Actions — always up to date, no third-party downtime.</sub>
 
 <br/>
 
