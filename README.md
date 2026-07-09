@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=200&section=header&text=Sahidul%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20(MERN%20Stack)&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="./assets/profile-banner.svg" alt="Sahidul Islam" width="100%" />
 
 <a href="https://www.linkedin.com/in/sahidul-islam-">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -25,6 +25,7 @@ const sahidul = {
   role: "Full-Stack Web Developer (MERN)",
   focus: ["Next.js", "Express.js", "MongoDB", "Secure Auth Systems"],
   currentlyBuilding: "Production-ready SaaS-style web platforms",
+  currentlyLearning: "Advanced system design & scalable architectures",
   location: "Bangladesh 🇧🇩",
   openTo: ["Internship", "Junior Role", "Freelance Projects"],
 };
@@ -75,7 +76,7 @@ const sahidul = {
 
 ### 📚 Luminary — Ebook Sharing Platform
 
-<!-- 📸 Add screenshot here: ![Luminary](./assets/luminary.png) -->
+<img src="./assets/luminary.png" alt="Luminary screenshot" width="100%" />
 
 > A full-stack ebook marketplace connecting readers with independent writers. Readers discover and purchase original ebooks; writers publish and manage their own catalog — all through role-based dashboards with real Stripe payments.
 
@@ -85,7 +86,7 @@ const sahidul = {
 
 <div>
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=for-the-badge)](https://luminary-client.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-F4C430?style=for-the-badge)](https://luminary-client.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sahidul-dev-47/luminary-client)
 
 </div>
@@ -96,7 +97,7 @@ const sahidul = {
 
 ### 🏟️ SportVerse — Sports Facility Booking Platform
 
-<!-- 📸 Add screenshot here: ![SportVerse](./assets/sportverse.png) -->
+<img src="./assets/sportverse.png" alt="SportVerse screenshot" width="100%" />
 
 > A full-stack platform where venue owners list their sports facilities and athletes book time slots directly — no phone calls, no middlemen.
 
@@ -106,7 +107,7 @@ const sahidul = {
 
 <div>
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=for-the-badge)](https://sport-verse-client.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-22C55E?style=for-the-badge)](https://sport-verse-client.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sahidul-dev-47/SportVerse-client)
 
 </div>
@@ -117,7 +118,7 @@ const sahidul = {
 
 ### 💻 Pro Coder BD — Coding Practice Platform
 
-<!-- 📸 Add screenshot here: ![Pro Coder BD](./assets/pro-coder-bd.png) -->
+<img src="./assets/pro-coder.png" alt="Pro Coder BD screenshot" width="100%" />
 
 > A community-driven coding platform built for Bangladeshi developers to learn, practice, and grow together — with real-time code execution, structured challenges, and a peer community.
 
@@ -127,7 +128,7 @@ const sahidul = {
 
 <div>
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=for-the-badge)](https://skillsphere-app-l97u.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://skillsphere-app-l97u.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sahidul-dev-47/skillsphere-app)
 
 </div>
@@ -138,7 +139,7 @@ const sahidul = {
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
@@ -158,6 +159,6 @@ const sahidul = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=100&section=footer" />
+<img src="./assets/profile-footer.svg" alt="" width="100%" />
 
 </div>
